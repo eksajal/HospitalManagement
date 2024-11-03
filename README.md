@@ -17,3 +17,8 @@ Welcome to the **Hospital Management System**! This project is a comprehensive s
 - **Laravel** - The backend framework providing a robust and secure foundation.
 - **MySQL** - Database to store and manage sensitive patient and staff data securely.
 - **Bootstrap** - For a responsive and user-friendly interface.
+![Capture5](https://github.com/user-attachments/assets/78f24b42-a839-45de-900e-879967451793)
+![Capture4](https://github.com/user-attachments/assets/7f1e55b8-c1e0-4e40-bf1f-0636ab4941f2)
+![Capture3](https://github.com/user-attachments/assets/ffd93542-3ae0-45c2-a556-53021815a16e)
+![Capture2](https://github.com/user-attachments/assets/e5e7a68c-69a6-41ca-a077-d3d6920e0238)
+![Capture1](https://github.com/user-attachments/assets/743b5e59-5702-4f71-b282-6e24230145ed)
